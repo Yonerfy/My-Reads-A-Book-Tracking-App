@@ -28,9 +28,9 @@ When you navigate back to the main page from the search page, you should instant
 
 ## Installing and launching
 
-git clone "https://github.com/Yonerfy/myReads.git"
+git clone "https://github.com/Yonerfy/My-Reads-A-Book-Tracking-App.git"
 
-cd MyReads
+cd My-Reads-A-Book-Tracking-App
 
 npm install
 
